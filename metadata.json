@@ -1,0 +1,8 @@
+{
+  "name": "Dashboard IoT MQTT dan Perintah Suara",
+  "description": "Sistem monitoring DHT sensor, kontrol 4 Relay menggunakan 3 MQTT Broker dengan Perintah Suara pintar",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
